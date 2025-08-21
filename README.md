@@ -1,7 +1,6 @@
 Hello darling! Hello world!
 
-This is my first python project in codecademy. The brief was to add the below info for the website, then collect all of the info and prices
-for the customer's reciept at the end. Here is how i've used to put the project together:
+This is my first python project in codecademy. The brief was to add the info found in the code for the website, then collect all of the info and prices together for the customer's reciept at the end. Here is how i've used to put the project together:
 
 - Variables and strings to assign the product information and prices
 - snake_case and not camelCase for consistency
