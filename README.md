@@ -6,6 +6,7 @@ This is my first python project in codecademy. The brief was to add the info fou
 - snake_case and not camelCase for consistency
 - #comments and whitespace for clarity and to make the code easier to read
 - Floating point numbers for the prices and tax percentage
+- \n in text and print() at printing stage to seperate text and make the receipt easier to read
 - Concatenation to add variables together
 - The compound assignment operator += to add the prices and item descriptions together
 - For the customer's receipt, the mulitplication operator * to work out the 8.8% tax addition to add to the customer's bill
