@@ -37,8 +37,6 @@ customer_one_total += customer_one_tax
 
 # Customer one receipt
 print("Customer One Items")
-print()
 print(customer_one_itemization)
-print()
 print("Customer One Total:")
 print(f"{customer_one_total:.2f}")
